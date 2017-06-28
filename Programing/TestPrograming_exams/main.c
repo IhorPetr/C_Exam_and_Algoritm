@@ -10,6 +10,7 @@
 
 void main()
 {
+    /*yor code is shittt!!!*/
     printf("Hello world!\n");
     int o = getchar();
     putchar(o);
